@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.npy
+*.csv
+*.h5
+*.pkl
